@@ -6,9 +6,6 @@ description: "All of us retain the capacity to change, even to change in fundame
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">
-            {{ post.title }}
-        </h2>
         {% if post.subtitle %}
         <h3 class="post-subtitle">
             {{ post.subtitle }}
