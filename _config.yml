@@ -1,7 +1,7 @@
 # Site settings
 title: ForeFive003的博客
 SEOTitle: ForeFive003的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/desktop.jpg
 email: abcht2005@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, ForeFive003的博客"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/forefive003/forefive003.github.io.git" # you co
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/this_is_me.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
